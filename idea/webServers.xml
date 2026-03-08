@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c25e3fa8-a69b-4a84-a689-84d291f49a83" name="gxnntower">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="192.168.0.10" port="22" sshConfigId="1a5bf231-686f-44e8-8dc9-680589b81bbb" sshConfig="root@192.168.0.10:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a006bcc-1df4-4451-a9ef-b5d6ab116420" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.1/remote_sources/-1864644721/-503548467/torch/autograd/anomaly_mode.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2Uhjzd3qHMcNFiLg49yUVtO3sBf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.BANet.executor": "Run",
+    "Python.CMTFNet.executor": "Run",
+    "Python.CSUnet.executor": "Run",
+    "Python.DCSwin.executor": "Run",
+    "Python.DFomer.executor": "Run",
+    "Python.DyT.executor": "Run",
+    "Python.HybridSETR.executor": "Run",
+    "Python.KANLinear.executor": "Run",
+    "Python.LMLPDecoder.executor": "Run",
+    "Python.LightMUNet.executor": "Run",
+    "Python.MANet.executor": "Run",
+    "Python.MK_unet.executor": "Run",
+    "Python.OPA (1).executor": "Run",
+    "Python.OPA.executor": "Run",
+    "Python.OSA.executor": "Run",
+    "Python.OmniSR.executor": "Run",
+    "Python.PTA.executor": "Run",
+    "Python.ResTv2.executor": "Run",
+    "Python.SUAGE.executor": "Run",
+    "Python.UPerNet.executor": "Run",
+    "Python.Umamba.executor": "Run",
+    "Python.a2fpn.executor": "Run",
+    "Python.agent_swintransformer.executor": "Run",
+    "Python.callbacks.executor": "Run",
+    "Python.cosFormer.executor": "Run",
+    "Python.dataloader.executor": "Run",
+    "Python.dca.executor": "Run",
+    "Python.deeplabv3_plus.executor": "Run",
+    "Python.dilateformer.executor": "Run",
+    "Python.ftunetformer.executor": "Run",
+    "Python.get_miou (1).executor": "Run",
+    "Python.get_miou.executor": "Run",
+    "Python.hiformer.executor": "Run",
+    "Python.huge_dialteformer.executor": "Run",
+    "Python.huge_dialteformer_half.executor": "Run",
+    "Python.huge_dialteformer_quarter.executor": "Run",
+    "Python.json_to_dataset.executor": "Run",
+    "Python.kan_dilateformer.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.masnet.executor": "Run",
+    "Python.new_unet.executor": "Run",
+    "Python.old_dilateformer.executor": "Run",
+    "Python.old_unet.executor": "Run",
+    "Python.predict (1).executor": "Run",
+    "Python.predict.executor": "Run",
+    "Python.pspnet.executor": "Run",
+    "Python.pvt2_upernet.executor": "Run",
+    "Python.repbn_dilateformer.executor": "Run",
+    "Python.scratch.executor": "Run",
+    "Python.segformer.executor": "Run",
+    "Python.stvit.executor": "Run",
+    "Python.swinUmamba.executor": "Run",
+    "Python.swinUmambaD.executor": "Run",
+    "Python.swintransformer (1).executor": "Run",
+    "Python.swintransformer.executor": "Run",
+    "Python.test (1).executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test_program.executor": "Run",
+    "Python.train.executor": "Run",
+    "Python.transforms.executor": "Run",
+    "Python.transunet.executor": "Run",
+    "Python.u2former.executor": "Run",
+    "Python.uformer.executor": "Run",
+    "Python.unet (1).executor": "Run",
+    "Python.unet.executor": "Run",
+    "Python.unetformer.executor": "Run",
+    "Python.upsample_Decoder.executor": "Run",
+    "Python.vmunet.executor": "Run",
+    "Python.voc_annotation.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "last_opened_file_path": "D:/py.learn.unet/unet-pytorch-main/img/another",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\py.learn.unet\unet-pytorch-main\img\another" />
+      <recent name="D:\py.learn.unet\unet-pytorch-main\img\buliding" />
+      <recent name="D:\py.learn.unet\unet-pytorch-main\img\buliding\predictions" />
+      <recent name="D:\py.learn.unet\unet-pytorch-main\img\tuopu\predictions" />
+      <recent name="D:\py.learn.unet\unet-pytorch-main\img\tuopu\ground_truths" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\py.learn.unet\unet-pytorch-main\img\tuopu\ground_truths" />
+      <recent name="D:\py.learn.unet\unet-pytorch-main\logs" />
+      <recent name="D:\py.learn.unet\unet-pytorch-main\VOCdevkit_masai_val\VOC2007\JPEGImages" />
+      <recent name="D:\py.learn.unet\unet-pytorch-main\VOCdevkit_masai_val\VOC2007" />
+      <recent name="D:\py.learn.unet\unet-pytorch-main\VOCdevkit_masai_val\VOC2007\ImageSets\Segmentation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="OPA (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="unet-pytorch-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="&lt;11dfecc9-e6df-499f-92a7-943fcfd8d605&gt;/root/autodl-tmp/nets/dyt/OPA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OPA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="unet-pytorch-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nets/dyt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nets/dyt/OPA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PTA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="unet-pytorch-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nets/dyt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nets/dyt/PTA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="unet-pytorch-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="unet-pytorch-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nets/plainmamba" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nets/plainmamba/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.OPA (1)" />
+      <item itemvalue="Python.OPA" />
+      <item itemvalue="Python.PTA" />
+      <item itemvalue="Python.predict" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.OPA" />
+        <item itemvalue="Python.PTA" />
+        <item itemvalue="Python.OPA (1)" />
+        <item itemvalue="Python.predict" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a006bcc-1df4-4451-a9ef-b5d6ab116420" name="Changes" comment="" />
+      <created>1693398971977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693398971977</updated>
+      <workItem from="1713921308862" duration="15962000" />
+      <workItem from="1714140877591" duration="40149000" />
+      <workItem from="1714488486486" duration="41989000" />
+      <workItem from="1715060017241" duration="76139000" />
+      <workItem from="1715758216270" duration="27440000" />
+      <workItem from="1716289881361" duration="28338000" />
+      <workItem from="1718164778262" duration="20426000" />
+      <workItem from="1718214130597" duration="451000" />
+      <workItem from="1718214598066" duration="5671000" />
+      <workItem from="1718276061173" duration="23149000" />
+      <workItem from="1718555636115" duration="16000" />
+      <workItem from="1718558879965" duration="30555000" />
+      <workItem from="1718739426250" duration="3925000" />
+      <workItem from="1718783130927" duration="5178000" />
+      <workItem from="1718805574799" duration="11360000" />
+      <workItem from="1719391795967" duration="613000" />
+      <workItem from="1719421205873" duration="14284000" />
+      <workItem from="1719486325440" duration="213000" />
+      <workItem from="1719648886594" duration="3214000" />
+      <workItem from="1719754477343" duration="11000" />
+      <workItem from="1720069655944" duration="3000" />
+      <workItem from="1721476357095" duration="38247000" />
+      <workItem from="1721620116626" duration="19677000" />
+      <workItem from="1721836532369" duration="6850000" />
+      <workItem from="1721911928223" duration="4909000" />
+      <workItem from="1721989178188" duration="3086000" />
+      <workItem from="1722060563160" duration="24112000" />
+      <workItem from="1722874795816" duration="5466000" />
+      <workItem from="1723051115723" duration="23542000" />
+      <workItem from="1723651556334" duration="3287000" />
+      <workItem from="1723699774323" duration="3445000" />
+      <workItem from="1724095677589" duration="5026000" />
+      <workItem from="1724924224434" duration="12248000" />
+      <workItem from="1725343675551" duration="1967000" />
+      <workItem from="1726561385864" duration="17847000" />
+      <workItem from="1726980999884" duration="13005000" />
+      <workItem from="1727020579794" duration="2000" />
+      <workItem from="1727157779836" duration="15577000" />
+      <workItem from="1727419585953" duration="3047000" />
+      <workItem from="1727515052411" duration="4624000" />
+      <workItem from="1727520440133" duration="10000" />
+      <workItem from="1727616835695" duration="5370000" />
+      <workItem from="1728464140319" duration="608000" />
+      <workItem from="1728470126922" duration="4000" />
+      <workItem from="1728471380044" duration="495000" />
+      <workItem from="1728472141088" duration="11304000" />
+      <workItem from="1728536803260" duration="50919000" />
+      <workItem from="1728798214784" duration="992000" />
+      <workItem from="1728799232414" duration="13537000" />
+      <workItem from="1728817085636" duration="4000" />
+      <workItem from="1728839235920" duration="2714000" />
+      <workItem from="1728872549208" duration="1405000" />
+      <workItem from="1730027049178" duration="21955000" />
+      <workItem from="1734446564588" duration="9000" />
+      <workItem from="1745889331967" duration="90345000" />
+      <workItem from="1746955201578" duration="1585000" />
+      <workItem from="1747232955210" duration="16068000" />
+      <workItem from="1747297969866" duration="50334000" />
+      <workItem from="1747480935864" duration="199191000" />
+      <workItem from="1748743195478" duration="171000" />
+      <workItem from="1748773627408" duration="24000" />
+      <workItem from="1748920440614" duration="61058000" />
+      <workItem from="1749170899797" duration="8079000" />
+      <workItem from="1749474266320" duration="30220000" />
+      <workItem from="1749712372388" duration="52000" />
+      <workItem from="1749713403494" duration="1502000" />
+      <workItem from="1749787071040" duration="3000" />
+      <workItem from="1749804358701" duration="13191000" />
+      <workItem from="1750233555373" duration="5418000" />
+      <workItem from="1750294473027" duration="7841000" />
+      <workItem from="1750857630178" duration="278000" />
+      <workItem from="1751084644125" duration="23003000" />
+      <workItem from="1751199296887" duration="102188000" />
+      <workItem from="1751986229053" duration="72000" />
+      <workItem from="1751986460209" duration="1662000" />
+      <workItem from="1752064181506" duration="5901000" />
+      <workItem from="1752140601135" duration="9368000" />
+      <workItem from="1752508345939" duration="94000" />
+      <workItem from="1752563297330" duration="26673000" />
+      <workItem from="1752768798158" duration="1316000" />
+      <workItem from="1752831481375" duration="4922000" />
+      <workItem from="1753505637834" duration="64076000" />
+      <workItem from="1754298957643" duration="1831000" />
+      <workItem from="1754378627173" duration="2415000" />
+      <workItem from="1754381632318" duration="55000" />
+      <workItem from="1754382260444" duration="2427000" />
+      <workItem from="1754464666616" duration="3685000" />
+      <workItem from="1754468863662" duration="1104000" />
+      <workItem from="1754492996735" duration="2207000" />
+      <workItem from="1754727807660" duration="2910000" />
+      <workItem from="1754900776804" duration="719000" />
+      <workItem from="1754903752994" duration="1399000" />
+      <workItem from="1754921750219" duration="3406000" />
+      <workItem from="1755002700553" duration="3625000" />
+      <workItem from="1755053701667" duration="1908000" />
+      <workItem from="1755069244396" duration="907000" />
+      <workItem from="1755174331513" duration="7811000" />
+      <workItem from="1755182337476" duration="855000" />
+      <workItem from="1755228584798" duration="1623000" />
+      <workItem from="1755246987080" duration="4809000" />
+      <workItem from="1755251897175" duration="140000" />
+      <workItem from="1755400620082" duration="3335000" />
+      <workItem from="1755822854330" duration="5000" />
+      <workItem from="1757041417362" duration="3000" />
+      <workItem from="1757222878140" duration="1412000" />
+      <workItem from="1757233298498" duration="287000" />
+      <workItem from="1757234313282" duration="245000" />
+      <workItem from="1757253234562" duration="236000" />
+      <workItem from="1757294961939" duration="218000" />
+      <workItem from="1757298199356" duration="161000" />
+      <workItem from="1758079244093" duration="648000" />
+      <workItem from="1758452783189" duration="1393000" />
+      <workItem from="1758543420626" duration="400000" />
+      <workItem from="1764754298563" duration="734000" />
+      <workItem from="1764819601647" duration="424000" />
+      <workItem from="1764822724091" duration="6553000" />
+      <workItem from="1764838278396" duration="4987000" />
+      <workItem from="1764929656834" duration="1305000" />
+      <workItem from="1764931396262" duration="218000" />
+      <workItem from="1764931906565" duration="324000" />
+      <workItem from="1765076482217" duration="7000" />
+      <workItem from="1765174283740" duration="83000" />
+      <workItem from="1765175013331" duration="19000" />
+      <workItem from="1765776617058" duration="309000" />
+      <workItem from="1766461099564" duration="334000" />
+      <workItem from="1767606467609" duration="17040000" />
+      <workItem from="1767755754015" duration="100290000" />
+      <workItem from="1768701067946" duration="6838000" />
+      <workItem from="1768712101224" duration="267000" />
+      <workItem from="1768876104764" duration="70000" />
+      <workItem from="1768938953550" duration="589000" />
+      <workItem from="1769076168307" duration="3715000" />
+      <workItem from="1771037038234" duration="3145000" />
+      <workItem from="1771069461716" duration="3223000" />
+      <workItem from="1771075189892" duration="566000" />
+      <workItem from="1771075775506" duration="2392000" />
+      <workItem from="1771132675028" duration="837000" />
+      <workItem from="1771133534026" duration="1859000" />
+      <workItem from="1771554424973" duration="1640000" />
+      <workItem from="1772532910870" duration="918000" />
+      <workItem from="1772603101022" duration="1079000" />
+      <workItem from="1772691454550" duration="2363000" />
+      <workItem from="1772720818394" duration="1575000" />
+      <workItem from="1772760333879" duration="6122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/missformer_py$ResTv2.coverage" NAME="ResTv2 Coverage Results" MODIFIED="1767763563418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/pvt" />
+    <SUITE FILE_PATH="coverage/missformer_py$swinUmambaD.coverage" NAME="swinUmambaD Coverage Results" MODIFIED="1767764208010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/swinumamba" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$OmniSR.coverage" NAME="OmniSR Coverage Results" MODIFIED="1751245429984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/omnisr" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$old_unet.coverage" NAME="old_unet Coverage Results" MODIFIED="1718277717183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$dataloader.coverage" NAME="dataloader Coverage Results" MODIFIED="1746344626125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$huge_dialteformer_half.coverage" NAME="huge_dialteformer_half Coverage Results" MODIFIED="1718162166778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dilateformer" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$huge_dialteformer_quarter.coverage" NAME="huge_dialteformer_quarter Coverage Results" MODIFIED="1718162321760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dilateformer" />
+    <SUITE FILE_PATH="coverage/missformer_py$pspnet.coverage" NAME="pspnet Coverage Results" MODIFIED="1767761706790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/pspnet" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$MANet.coverage" NAME="MANet Coverage Results" MODIFIED="1747638739623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/manet" />
+    <SUITE FILE_PATH="coverage/missformer_py$a2fpn.coverage" NAME="a2fpn Coverage Results" MODIFIED="1767761418734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/unetformer" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$HybridSETR.coverage" NAME="HybridSETR Coverage Results" MODIFIED="1715217371065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/mamaba_net" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1752852232912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$old_dilateformer.coverage" NAME="old_dilateformer Coverage Results" MODIFIED="1755175242400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dilateformer" />
+    <SUITE FILE_PATH="coverage/missformer_py$train.coverage" NAME="train Coverage Results" MODIFIED="1768447210008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/missformer_py$OPA.coverage" NAME="OPA Coverage Results" MODIFIED="1768707618121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dyt" />
+    <SUITE FILE_PATH="coverage/missformer_py$swinUmamba.coverage" NAME="swinUmamba Coverage Results" MODIFIED="1767764053646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/swinumamba" />
+    <SUITE FILE_PATH="coverage/test_py$OPA.coverage" NAME="OPA Coverage Results" MODIFIED="1771135297547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dyt" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$repbn_dilateformer.coverage" NAME="repbn_dilateformer Coverage Results" MODIFIED="1721488932759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dilateformer" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$swintransformer__1_.coverage" NAME="swintransformer (1) Coverage Results" MODIFIED="1727167306357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/transunet" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$new_unet.coverage" NAME="new_unet Coverage Results" MODIFIED="1713924648450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/mamaba_net" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$predict.coverage" NAME="predict Coverage Results" MODIFIED="1755251842054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/missformer_py$MK_unet.coverage" NAME="MK_unet Coverage Results" MODIFIED="1768187045110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/mk_unet" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$u2former.coverage" NAME="u2former Coverage Results" MODIFIED="1751337988150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/u_transformer" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$LightMUNet.coverage" NAME="LightMUNet Coverage Results" MODIFIED="1727009053490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/lightmunet" />
+    <SUITE FILE_PATH="coverage/missformer_py$MANet.coverage" NAME="MANet Coverage Results" MODIFIED="1767760278496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/manet" />
+    <SUITE FILE_PATH="coverage/missformer_py$get_miou.coverage" NAME="get_miou Coverage Results" MODIFIED="1768532667825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/missformer_py$DCSwin.coverage" NAME="DCSwin Coverage Results" MODIFIED="1767681456283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dcswin" />
+    <SUITE FILE_PATH="coverage/missformer_py$stvit.coverage" NAME="stvit Coverage Results" MODIFIED="1767761862644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/stvit" />
+    <SUITE FILE_PATH="coverage/missformer_py$test.coverage" NAME="test Coverage Results" MODIFIED="1768369574745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/plainmamba" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$OSA.coverage" NAME="OSA Coverage Results" MODIFIED="1755174914502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/omnisr" />
+    <SUITE FILE_PATH="coverage/missformer_py$CMTFNet.coverage" NAME="CMTFNet Coverage Results" MODIFIED="1767762100740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/cmtfnet" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$test_program.coverage" NAME="test_program Coverage Results" MODIFIED="1715133795313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/missformer_py$unet.coverage" NAME="unet Coverage Results" MODIFIED="1767763797218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dual_DCA" />
+    <SUITE FILE_PATH="coverage/missformer_py$unet__1_.coverage" NAME="unet (1) Coverage Results" MODIFIED="1768100411952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_py$PTA.coverage" NAME="PTA Coverage Results" MODIFIED="1771072971807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dyt" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$LMLPDecoder.coverage" NAME="LMLPDecoder Coverage Results" MODIFIED="1751335401077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dformer" />
+    <SUITE FILE_PATH="coverage/kan_dilateformer_py$SUAGE.coverage" NAME="SUAGE Coverage Results" MODIFIED="1758453529491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dyt" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$dca.coverage" NAME="dca Coverage Results" MODIFIED="1754380620574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dual_DCA" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$hiformer.coverage" NAME="hiformer Coverage Results" MODIFIED="1748331068263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/hiformer" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$stvit.coverage" NAME="stvit Coverage Results" MODIFIED="1751531982874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/stvit" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$kan_dilateformer.coverage" NAME="kan_dilateformer Coverage Results" MODIFIED="1718787838913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dilateformer" />
+    <SUITE FILE_PATH="coverage/missformer_py$masnet.coverage" NAME="masnet Coverage Results" MODIFIED="1768277384405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/masnet" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$transunet.coverage" NAME="transunet Coverage Results" MODIFIED="1722880051981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/transunet" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$test.coverage" NAME="test Coverage Results" MODIFIED="1755181391154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/plainmamba" />
+    <SUITE FILE_PATH="coverage/missformer_py$BANet.coverage" NAME="BANet Coverage Results" MODIFIED="1767680684299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/banet" />
+    <SUITE FILE_PATH="coverage/missformer_py$Umamba.coverage" NAME="Umamba Coverage Results" MODIFIED="1768187251756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/umamba" />
+    <SUITE FILE_PATH="coverage/missformer_py$CSUnet.coverage" NAME="CSUnet Coverage Results" MODIFIED="1767681295394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/csunet" />
+    <SUITE FILE_PATH="coverage/missformer_py$pvt2_upernet.coverage" NAME="pvt2_upernet Coverage Results" MODIFIED="1767760182557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/pvt" />
+    <SUITE FILE_PATH="coverage/u2former_py$CMTFNet.coverage" NAME="CMTFNet Coverage Results" MODIFIED="1764841431592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/cmtfnet" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$ResTv2.coverage" NAME="ResTv2 Coverage Results" MODIFIED="1747474987768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/pvt" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$transforms.coverage" NAME="transforms Coverage Results" MODIFIED="1747399241584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/transunet" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$upsample_Decoder.coverage" NAME="upsample_Decoder Coverage Results" MODIFIED="1727001210174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dilateformer" />
+    <SUITE FILE_PATH="coverage/missformer_py$deeplabv3_plus.coverage" NAME="deeplabv3_plus Coverage Results" MODIFIED="1767759563220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/deeplabv3" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$agent_swintransformer.coverage" NAME="agent_swintransformer Coverage Results" MODIFIED="1755478071637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/transunet" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$vmunet.coverage" NAME="vmunet Coverage Results" MODIFIED="1727007982734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/vmunet" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$callbacks.coverage" NAME="callbacks Coverage Results" MODIFIED="1746341376405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/missformer_py$ftunetformer.coverage" NAME="ftunetformer Coverage Results" MODIFIED="1767761096977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/unetformer" />
+    <SUITE FILE_PATH="coverage/missformer_py$hiformer.coverage" NAME="hiformer Coverage Results" MODIFIED="1767760935604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/hiformer" />
+    <SUITE FILE_PATH="coverage/missformer_py$swintransformer.coverage" NAME="swintransformer Coverage Results" MODIFIED="1767759723363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/transunet" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$unet.coverage" NAME="unet Coverage Results" MODIFIED="1755182862483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$unetformer.coverage" NAME="unetformer Coverage Results" MODIFIED="1749474758873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/unetformer" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$dilateformer.coverage" NAME="dilateformer Coverage Results" MODIFIED="1752655157048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dilateformer" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$json_to_dataset.coverage" NAME="json_to_dataset Coverage Results" MODIFIED="1752852008717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$get_miou.coverage" NAME="get_miou Coverage Results" MODIFIED="1755183036343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/missformer_py$segformer.coverage" NAME="segformer Coverage Results" MODIFIED="1767759894692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/segformer" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$unet__1_.coverage" NAME="unet (1) Coverage Results" MODIFIED="1727007476527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1715133339229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/missformer_py$UPerNet.coverage" NAME="UPerNet Coverage Results" MODIFIED="1767760005798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/pvt" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$DFomer.coverage" NAME="DFomer Coverage Results" MODIFIED="1751337280450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dformer" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$DyT.coverage" NAME="DyT Coverage Results" MODIFIED="1755176004071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dyt" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$voc_annotation.coverage" NAME="voc_annotation Coverage Results" MODIFIED="1754465397623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/missformer_py$PTA.coverage" NAME="PTA Coverage Results" MODIFIED="1768712160023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dyt" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$cosFormer.coverage" NAME="cosFormer Coverage Results" MODIFIED="1715136558529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/mamaba_net" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$train.coverage" NAME="train Coverage Results" MODIFIED="1755401274662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/u2former_py$predict.coverage" NAME="predict Coverage Results" MODIFIED="1764843069405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$uformer.coverage" NAME="uformer Coverage Results" MODIFIED="1751097268260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/u_transformer" />
+    <SUITE FILE_PATH="coverage/missformer_py$old_unet.coverage" NAME="old_unet Coverage Results" MODIFIED="1767763663807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets" />
+    <SUITE FILE_PATH="coverage/test_py$test.coverage" NAME="test Coverage Results" MODIFIED="1772767098833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/plainmamba" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$KANLinear.coverage" NAME="KANLinear Coverage Results" MODIFIED="1750304192170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kan_Convoluation/Kan_Convolution" />
+    <SUITE FILE_PATH="coverage/missformer_py$predict.coverage" NAME="predict Coverage Results" MODIFIED="1768532742404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unet_pytorch_main$huge_dialteformer.coverage" NAME="huge_dialteformer Coverage Results" MODIFIED="1718040086380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets/dilateformer" />
+    <SUITE FILE_PATH="coverage/u2former_py$train.coverage" NAME="train Coverage Results" MODIFIED="1764842675973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
